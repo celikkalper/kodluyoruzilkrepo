@@ -1,3 +1,5 @@
+![kodluyoruz](https://i.hizliresim.com/l8hvcmj.png)
+
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Fron-End Eğitiminde oluşturduğumuz ilk repo. İçerisindeki bir adet README dosyası, bir adet index.html barıdrıyor.
